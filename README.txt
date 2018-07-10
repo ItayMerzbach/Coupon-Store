@@ -2,7 +2,7 @@ Welcome to the Coupon system
 to login as admin you will have to use 'admin' as username
 and '1234' as password.
 
-the project include three stup: 
+the project include three steps: 
 1. coupon cure
 2. web service that used couponCure.jar and Realizing server and client-side (SPA angularJS and Jquery) (work with tomcat).
 3. EJB server that responsible to ducoment the revenues of the system(work with JBoss5.1).      
